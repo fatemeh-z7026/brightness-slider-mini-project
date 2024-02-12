@@ -1,0 +1,6 @@
+body{
+    background-image: url(/image/pexels-cottonbro-studio-4686833.jpg);
+    width: 100%;
+    background-size: cover;
+    filter: brightness(100%);
+}
